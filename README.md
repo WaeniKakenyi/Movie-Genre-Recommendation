@@ -108,7 +108,6 @@ For additional info, contact Medrine Waeni at [medrinewaeni@gmail.com](mailto:me
 ```
 ├── data                                        <- Both sourced externally
 ├── images                                      <- Both sourced externally and generated from code
-├── .gitattributes                              <- Contains Git LFS of im.db as it was too big to push
 ├── README.md                                   <- The top-level README for reviewers of this project
 ├── Writeup.pdf                                 <- PDF version of the write up
 ├── microsoft_movie_analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
