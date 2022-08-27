@@ -105,12 +105,16 @@ See the full analysis in the [Jupyter Notebook](https://github.com/WaeniKakenyi/
 For additional info, contact Medrine Waeni at [medrinewaeni@gmail.com](mailto:medrinewaeni@gmail.com)
 
 ## Repository structure
-├── README.md                        <- The top-level README for reviewers of this project
-├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── presentation.pdf                 <- PDF version of project presentation
-├── notebook.pdf                     <- PDF version of Jupyter notebook
-├── data                             <- Both sourced externally
-└── images                           <- Both sourced externally and generated from code
+```
+├── data                                        <- Both sourced externally
+├── images                                      <- Both sourced externally and generated from code
+├── .gitattributes                              <- Contains Git LFS of im.db as it was too big to push
+├── README.md                                   <- The top-level README for reviewers of this project
+├── Writeup.pdf                                 <- PDF version of the write up
+├── microsoft_movie_analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
+├── notebook.pdf                                <- PDF version of Jupyter notebook
+├── presentation.pdf                            <- PDF version of project presentation
+```
 
 
 
